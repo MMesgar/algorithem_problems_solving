@@ -1,1 +1,2 @@
-# algorithm_problems_solving
+# Introduction
+Here I explain some algorithm design problems and their solutions. 
