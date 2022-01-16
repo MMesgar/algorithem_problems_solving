@@ -1,2 +1,2 @@
 # Introduction
-Here I explain some algorithm design problems and their solutions. 
+Here I explain some algorithem design problems and their solutions. 
